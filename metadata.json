@@ -1,0 +1,6 @@
+{
+  "name": "EAS AI Recruiting & Scheduling Tool",
+  "description": "An intelligent recruiter workspace by EAS Consulting to evaluate profiles, filter by competencies, automate calendar scheduling, and monitor metrics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
